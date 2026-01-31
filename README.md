@@ -10,7 +10,7 @@ It was originally a [C# project](https://www.youtube.com/watch?v=IqPZUMPv2ss&fea
 You can play a live match from the project reality tournament [here](https://tournament.realitymod.com/prt_mods/tracker/?demo=files/c13_b9.PRdemo#185). For more you can visit public server's websites or PRT's [replay archive](https://tournament.realitymod.com/showthread.php?p=375923).
 
 ### Usage
-- Clone the tracker or use the [github pages](https://yossizap.github.io/realitytracker/) hosted master branch version
+- Clone the tracker or use the [github pages](https://yossizap.github.io/realitytracker/) hosted master branch version.
 - Load one of the example .PRdemo files from `examples/`
 - Click the stack icon on the right to toggle options
 - Click on the running man in the play bar to set the speed
